@@ -4,7 +4,7 @@
 * Основы машинного обучения
 * Линейные модели и методы оптимизации
 * Решением ML-задачи на kaggle
-* Сверточные и полносвязные сети
+* [Сверточные и полносвязные сети]([homework]dense_and_convolutional_nn.ipynb)
 * [Классификация изображений (Симпсоны)](simpsone_home.ipynb)
 * [Сегментация изображений]([hw]segmentation.ipynb)
 * [Автоэнкодеры]([hw]autoencoders_semester1.ipynb)

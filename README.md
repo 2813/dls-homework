@@ -14,3 +14,4 @@
 * [Ранжирование текстов на основе эмбеддингов]([homework]simple_embeddings.ipynb)
 * [Классификация текста с помощью RNN](hw_text_classification.ipynb)
 * [Языковое моделирование](hw_language_modelling.ipynb)
+* Механизм внимания

@@ -1,7 +1,7 @@
 # dls-homework
 
 ## Семестр 1
-* Основы машинного обучения
+* [Библиотека sklearn и классификация с помощью KNN]([homework]dense_and_convolutional_nn.ipynb)
 * Линейные модели и методы оптимизации
 * [Решением ML-задачи на kaggle](dls_home3.ipynb)
 * [Сверточные и полносвязные сети]([homework]dense_and_convolutional_nn.ipynb)

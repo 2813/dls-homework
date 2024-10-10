@@ -1,7 +1,7 @@
 # dls-homework
 
 ## Семестр 1
-* [Библиотека sklearn и классификация с помощью KNN]([homework]dense_and_convolutional_nn.ipynb)
+* [Библиотека sklearn и классификация с помощью KNN]([homework]game_of_thrones_prediction.ipynb)
 * Линейные модели и методы оптимизации
 * [Решением ML-задачи на kaggle](dls_home3.ipynb)
 * [Сверточные и полносвязные сети]([homework]dense_and_convolutional_nn.ipynb)

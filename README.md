@@ -2,7 +2,7 @@
 
 ## Семестр 1
 * [Библиотека sklearn и классификация с помощью KNN]([homework]game_of_thrones_prediction.ipynb)
-* Линейные модели и методы оптимизации
+* [Линейные модели и методы оптимизации]([homework]linear_models_fall_2021.ipynb)
 * [Решением ML-задачи на kaggle](dls_home3.ipynb)
 * [Сверточные и полносвязные сети]([homework]dense_and_convolutional_nn.ipynb)
 * [Классификация изображений (Симпсоны)](simpsone_home.ipynb)

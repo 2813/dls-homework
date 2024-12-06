@@ -6,7 +6,7 @@
 * [Решением ML-задачи на kaggle](dls_home3.ipynb)
 * [Сверточные и полносвязные сети]([homework]dense_and_convolutional_nn.ipynb)
 * [Классификация изображений (Симпсоны)](simpsone_home.ipynb)
-* [Сегментация изображений]([hw]segmentation.ipynb)
+* [Сегментация изображений](updated_hw_16_1_semantic_segmentation.ipynb) ([old]([hw]segmentation.ipynb))
 * [Автоэнкодеры]([hw]autoencoders_semester1.ipynb)
 * [Генеративно-состязательные модели]([hw]GAN.ipynb)
 
